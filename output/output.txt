@@ -1,1 +1,2 @@
-Your output data will end up here
+Simple LTV of top 2 th customer with customer id 96f55c7d8f44 and last name Walsh is  10947.368421052633
+Simple LTV of top 2 th customer with customer id 96f55c7d8f43 and last name Unknown is  8210.526315789473
