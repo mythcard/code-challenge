@@ -1,0 +1,2 @@
+Simple LTV of top 2 th customer with customer id 96f55c7d8f44 and last name Walsh is  6910.2990033222595
+Simple LTV of top 2 th customer with customer id 96f55c7d8f43 and last name Unknown is  5182.724252491695
